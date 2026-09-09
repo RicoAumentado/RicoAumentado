@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rico</h1>
-<h3 align="center">4th-year Information Technology Student | Web & Game Developer</h3>
+<h3 align="center">4th-year Information Technology Student | Web Developer</h3>
 
 <br>
 
