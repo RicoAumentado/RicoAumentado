@@ -3,8 +3,7 @@
 
 <br>
 
-**Connect with me:**
-<!-- Add your LinkedIn, Portfolio, or email links here -->
+
 
 <br>
 
