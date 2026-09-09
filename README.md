@@ -7,7 +7,7 @@
 
 <br>
 
-**Languages and Tools:**
+**Languages and Tools/DB:**
 <p align="left">
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo"  />
@@ -23,4 +23,7 @@
   
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React logo"  />
+
+  <!-- Supabase -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="Supabase logo" />
 </p>
